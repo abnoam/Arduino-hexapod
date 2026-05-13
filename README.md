@@ -7,9 +7,13 @@
 ---
 
 ## How we built it
+
 <div align="center">
-  [![צפה בסרטון](https://img.youtube.com/vi/qhv6EdeWh7k/0.jpg)](https://www.youtube.com/watch?v=qhv6EdeWh7k)
+
+[![צפה בסרטון](https://img.youtube.com/vi/qhv6EdeWh7k/0.jpg)](https://www.youtube.com/watch?v=qhv6EdeWh7k)
+
 </div>
+
 ---
 
 ##יכולות הרובוט
