@@ -21,19 +21,22 @@
 ### תנועה בסיסית
 - ** הליכה קדימה** (`walk.forward.ino`) - תנועה רגילה קדימה 
 - ** הליכה לאחור** (`walk.backward.ino`) - תנועה אחורה
-<img width="800" height="450" alt="20200116_103405-ezgif com-optimize (1)" src="https://github.com/user-attachments/assets/65a26840-a05d-49f4-832a-b886d7a05780" />
+<img width="800" height="450" alt="ezgif com-video-to-webp-converter (1)" src="https://github.com/user-attachments/assets/012068f3-894b-4b2a-b1a5-72ae1f17e9bf" />
+
 
 
 - ** פנייה ימינה** (`right.ino`) - סיבוב מבוקר לימין
 - ** פנייה שמאלה** (`left.ino`) - סיבוב מבוקר לשמאל
 - ** ישיבה/עמידה ** (`still.ino`) - הרובוט עומד או יושב בהתאם למצבו הקודם
-<img width="800" height="450" alt="20200115_155029-ezgif com-optimize" src="https://github.com/user-attachments/assets/92c6b448-2c49-4eb0-9138-e1f51272cc6e" />
+<img width="800" height="450" alt="ezgif com-video-to-webp-converter" src="https://github.com/user-attachments/assets/3c337a94-29a3-4591-aa7c-6e22065a94db" />
+
 
  
 ### פעולות מיוחדות
 - ** ריקוד 1** (`dance1.ino`) - רצף תנועה ראשון עם מוזיקה
 - ** ריקוד 2** (`dance2.ino`) - רצף תנועה שני עם מוזיקה
-<img width="720" height="405" alt="Pi7_GIF_CMP" src="https://github.com/user-attachments/assets/5231fb63-1d20-4e7a-a1bd-1264e7648912" />
+<img width="800" height="450" alt="ezgif com-video-to-webp-converter (2)" src="https://github.com/user-attachments/assets/18fcfab0-bd16-4e3a-a888-c2a860615530" />
+
 
 
 ### חיישנים וגילוי
