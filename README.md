@@ -23,7 +23,7 @@
 ### פעולות מיוחדות
 - ** ריקוד 1** (`dance1.ino`) - רצף תנועה ראשון עם מוזיקה
 - ** ריקוד 2** (`dance2.ino`) - רצף תנועה שני עם מוזיקה
-<img width="800" height="450" alt="ezgif com-optimize (1)" src="https://github.com/user-attachments/assets/cb5b42d4-0e9c-4b2a-b586-0e90ea0dff75" />
+<img width="720" height="405" alt="Pi7_GIF_CMP" src="https://github.com/user-attachments/assets/5231fb63-1d20-4e7a-a1bd-1264e7648912" />
 
 
 ### חיישנים וגילוי
