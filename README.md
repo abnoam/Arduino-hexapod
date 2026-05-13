@@ -6,6 +6,10 @@
 
 ---
 
+## How we built it
+[![צפה בסרטון](https://img.youtube.com/vi/qhv6EdeWh7k/0.jpg)](https://www.youtube.com/watch?v=qhv6EdeWh7k)
+---
+
 ##יכולות הרובוט
 
 ### תנועה בסיסית
