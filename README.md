@@ -5,10 +5,10 @@
 
 
 ---
-
-## How we built it
-
 <div align="center">
+<h2>How we built it <div align="center"> <a href="https://www.youtube.com/watch?v=qhv6EdeWh7k"><img src="https://img.shields.io/badge/YouTube-Watch%20Video-red?style=flat&logo=youtube" valign="middle"></a></h2>
+
+
 
  <a href="https://www.youtube.com/watch?v=qhv6EdeWh7k"><img src="https://img.youtube.com/vi/qhv6EdeWh7k/maxresdefault.jpg" width="800"></a> 
 
