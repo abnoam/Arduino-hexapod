@@ -2,7 +2,10 @@
 
 ## Overview
 פרוייקט כיתה יב של נועם ויוסי - רובוט הקספוד המונע על ידי Arduino Mega ונשלט באפליקציה
-
+<div align="right" dir="rtl">
+  
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/abnoam/Arduino-hexapod/releases/download/app/richard.apk)
+</div>
 
 ---
 ##  How We Built it
