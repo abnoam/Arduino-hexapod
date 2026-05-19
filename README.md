@@ -1,11 +1,8 @@
 # 🤖 Arduino Hexapod Robot
 
 ## Overview
-פרוייקט כיתה יב של נועם ויוסי - רובוט הקספוד המונע על ידי Arduino Mega ונשלט באפליקציה
-<div align="right" dir="rtl">
-  
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/abnoam/Arduino-hexapod/releases/download/app/richard.apk)
-</div>
+
+פרוייקט כיתה יב של נועם ויוסי - רובוט הקספוד המונע על ידי Arduino Mega ונשלט באפליקציה ◄◄◄ <a href="https://github.com/abnoam/Arduino-hexapod/releases/download/app/richard.apk"><img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" alt="Download APK" align="middle"></a>
 
 ---
 ##  How We Built it
