@@ -104,4 +104,4 @@ Arduino-hexapod/
 
 תודה רבה לענת אלבלינג על הליווי וההדרכה במהלך היצירה של הפרוייקט
 
-Co-authored-by: Shmittzy <yosik10565@gmail.com‏>
+Co-authored-by: Shmittzy 12345678+Shmittzy@users.noreply.github.com
